@@ -38,7 +38,6 @@ export function Keyboard() {
           </li>
         </ol>
       </div>
-      ;
     </>
   );
 }

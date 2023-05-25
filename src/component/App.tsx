@@ -1,6 +1,6 @@
 import "./App.css";
 import { Info } from "./Info";
-import { Keyboard } from "./keyboard";
+import { Keyboard } from "./Keyboard";
 import { Actions } from "./Actions";
 import { Display } from "./Display";
 
